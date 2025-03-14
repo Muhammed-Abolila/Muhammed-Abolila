@@ -17,7 +17,7 @@
 
 ### About Me 🚀
 
-I’m **Bassam Naeem**, a dynamic full-stack **Software Developer** with a **Bachelor’s in Computer Science**. With a deep passion for turning innovative ideas into tangible solutions, I specialize in developing high-quality web and mobile applications using the **MERN Stack, Node.js and React Native**. Always eager to explore new technologies, I thrive in building user-centric, scalable, and efficient applications.I am also looking for clients to deliver **high-quality websites and mobile apps** tailored to their needs.
+I’m **Muhammed Abo LIla**, a *Front-End Developer*. With a deep passion for turning innovative ideas into tangible solutions, I specialize in developing high-quality web and mobile applications using the **MERN Stack, Node.js and React Native**. Always eager to explore new technologies, I thrive in building user-centric, scalable, and efficient applications.I am also looking for clients to deliver **high-quality websites and mobile apps** tailored to their needs.
 
 🔭 **Currently Working On:** Real Estate Analytics Website  
 🌱 **Currently Learning:** Kubernetes  
