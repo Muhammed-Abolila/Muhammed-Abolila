@@ -42,7 +42,7 @@ I’m **Muhammed Abo Lila**, a *Front-End Developer*. With a deep passion for tu
 
 ### 🚀 Recent Projects
 
-- **[Employee Portal System]** – Developed a comprehensive employee portal integrating **Microsoft Exchange services and Active Directory**, utilizing **Next.js, Material UI, Nest.js, and GraphQL**.
+- **[Envaglo ERP System]** – Developed a comprehensive employee portal integrating **Microsoft Exchange services and Active Directory**, utilizing **Next.js, Material UI, Nest.js, and GraphQL**.
 - **[Fleet Tracking App]** – Built a cross-platform **fleet tracking app** using **React Native, Google Maps, real-time streaming with Socket.io, and push notifications**.
 
 ---
