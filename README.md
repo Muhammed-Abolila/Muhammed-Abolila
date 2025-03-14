@@ -17,13 +17,10 @@
 
 ### About Me 🚀
 
-I’m **Muhammed Abo LIla**, a *Front-End Developer*. With a deep passion for turning innovative ideas into tangible solutions, I specialize in developing high-quality web and mobile applications using the **MERN Stack, Node.js and React Native**. Always eager to explore new technologies, I thrive in building user-centric, scalable, and efficient applications.I am also looking for clients to deliver **high-quality websites and mobile apps** tailored to their needs.
+I’m **Muhammed Abo Lila**, a *Front-End Developer*. With a deep passion for turning innovative ideas into tangible solutions, I specialize in developing high-quality web applications using the **React.js and Next.js**. Always eager to explore new technologies, I thrive in building user-centric, scalable, and efficient applications.
 
-🔭 **Currently Working On:** Real Estate Analytics Website  
-🌱 **Currently Learning:** Kubernetes  
-👯 **Looking to Collaborate On:** Open Source Projects  
-💬 **Ask Me About:** Full Stack Development, Cross Platform Mobile App Development, MERN Stack, Next.js  
-📫 **How to Reach Me:** bassam@bassamnaeem.com  
+💬 **Ask Me About:** Front-End Development, Web App Development, React.js, Next.js  
+📫 **How to Reach Me:** mabolila638@gmail.com  
 ⚡ **Fun Fact:** I love hiking and reading books
 
 ---
