@@ -42,11 +42,12 @@ I’m **Muhammed Abo Lila**, a *Front-End Developer*. With a deep passion for tu
 
 ### 🚀 Recent Projects
 
-- **[Envaglo ERP System]** – Developed a comprehensive employee portal integrating **Microsoft Exchange services and Active Directory**, utilizing **Next.js, Material UI, Nest.js, and GraphQL**.
-- **[Fleet Tracking App]** – Built a cross-platform **fleet tracking app** using **React Native, Google Maps, real-time streaming with Socket.io, and push notifications**.
-
----
-
+- **[Envaglo ERP System]** – Contributed to the development of an ERP system by designing and implementing key user interfaces , including:
+- **Login Screen**: Implemented a secure and intuitive login screen for user authentication and access
+- **Sales Screen** (POS): Developed a user-friendly interface for managing sales transactions.
+- **Purchases Screen**: Created the interface for tracking and managing purchase orders and related data.
+- **Journal Entries Screen**: Designed the UI for recording and managing financial journal entries.
+- 
 ### 📊 GitHub Stats
 
 <p align="center">
