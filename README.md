@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Introduction -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=5000&pause=1000&center=true&repeat=true&width=535&lines=Hi%2C+I'm+Muhammed+Abo Lila)](https://github.com/NikhilDupally)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=5000&pause=1000&center=true&repeat=true&width=535&lines=Hi%2C+I'm+Muhammed+AboLila)](https://github.com/NikhilDupally)
 
   
 </div>
