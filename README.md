@@ -48,4 +48,11 @@ I’m **Muhammed Abo Lila**, a *Front-End Developer*. With a deep passion for tu
 - **Purchases Screen**: Created the interface for tracking and managing purchase orders and related data.
 - **Journal Entries Screen**: Designed the UI for recording and managing financial journal entries.
 
+
+- **<a href="https://www.frada.com.sa/" target="_blank">[Frada Ecommerce Web site]</a>** - Contributed to the development of a comprehensive e-commerce platform to support online product sales. My responsibilities included:
+- Developing user interfaces for a smooth and responsive shopping experience across various devices using React and Next.js.
+-Improving payment processes by integrating multiple payment gateways like Telr and Tabby to ensure secure and seamless financial transactions.
+-Supporting security enhancements to ensure the protection of customers' personal information and payment data.
+-SEO Optimization: Improved search engine optimization (SEO) by adding a Sitemap file to ensure proper content indexing and enhancing Metadata to boost the website's ranking on search engines.
+
 🚀 Always open to exciting opportunities and collaborations. Let's connect and build something amazing! 🎯
