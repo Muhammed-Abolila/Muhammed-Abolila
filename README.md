@@ -9,7 +9,7 @@
 
 <p align="center">
 <!--   <a href="https://bassamnaeem.com" target="_blank">Portfolio</a> | -->
-  <a href="https://linkedin.com/in/bassamnaeem" target="_blank">LinkedIn</a> |
+  <a href="https://linkedin.com/in/mabolila638" target="_blank">LinkedIn</a> |
   <a href="https://github.com/Muhammed-Abolila" target="_blank">GitHub</a>
 </p>
 
