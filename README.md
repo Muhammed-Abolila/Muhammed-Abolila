@@ -47,16 +47,5 @@ I’m **Muhammed Abo Lila**, a *Front-End Developer*. With a deep passion for tu
 - **Sales Screen** (POS): Developed a user-friendly interface for managing sales transactions.
 - **Purchases Screen**: Created the interface for tracking and managing purchase orders and related data.
 - **Journal Entries Screen**: Designed the UI for recording and managing financial journal entries.
-- 
-### 📊 GitHub Stats
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bassamnaeem&show_icons=true&locale=en&layout=compact&theme=dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bassamnaeem&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bassamnaeem&label=Profile%20views&color=0e75b6&style=flat" alt="bassamnaeem" /> </p>
 
 🚀 Always open to exciting opportunities and collaborations. Let's connect and build something amazing! 🎯
