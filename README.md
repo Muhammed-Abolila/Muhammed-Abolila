@@ -15,7 +15,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-lightblue)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2.0-teal)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind)
 ![React](https://img.shields.io/badge/React-17-green)
 ![Next.js](https://img.shields.io/badge/Next.js-black)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-red)
