@@ -24,8 +24,6 @@ I’m **Muhammed Abo Lila**, a *Front-End Developer*. With a deep passion for tu
 ⚡ **Fun Fact:** I love hiking and reading books
 
 ---
-
-### 🛠️ Tech Stack
 ## Languages and Tools:
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
