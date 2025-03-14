@@ -8,9 +8,9 @@
 <h2 align="center">A Passionate Front-End Developer</h2>
 
 <p align="center">
-  <a href="https://bassamnaeem.com" target="_blank">Portfolio</a> |
+<!--   <a href="https://bassamnaeem.com" target="_blank">Portfolio</a> | -->
   <a href="https://linkedin.com/in/bassamnaeem" target="_blank">LinkedIn</a> |
-  <a href="https://github.com/Bassamnaeem" target="_blank">GitHub</a>
+  <a href="https://github.com/Muhammed-Abolila" target="_blank">GitHub</a>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
