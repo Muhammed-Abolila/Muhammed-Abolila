@@ -1,6 +1,5 @@
-# Welcome to my profile! 👋 karim11sayyed, and I'm a Front-End Developer
+# Welcome to my profile! 👋 Muhammed Abo Lila, and I'm a Front-End Developer
 
-Check out my [portfolio](#)!
 
 ## Most Used Languages
 
@@ -8,7 +7,6 @@ Check out my [portfolio](#)!
 ![Most Used Languages](https://img.shields.io/badge/HTML-21.50%25-orange.svg)
 ![Most Used Languages](https://img.shields.io/badge/CSS-16.47%25-blue.svg)
 ![Most Used Languages](https://img.shields.io/badge/SCSS-15.81%25-pink.svg)
-![Most Used Languages](https://img.shields.io/badge/TypeScript-5.35%25-lightblue.svg)
 
 ## Languages and Tools:
 
