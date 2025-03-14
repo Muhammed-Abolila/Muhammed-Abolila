@@ -49,7 +49,6 @@ I’m **Muhammed Abo Lila**, a *Front-End Developer*. With a deep passion for tu
 - **Journal Entries Screen**: Designed the UI for recording and managing financial journal entries.
 - 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bassamnaeem&show_icons=true&locale=en&layout=compact&theme=dark" alt="GitHub Stats" />
 </p>
@@ -59,39 +58,5 @@ I’m **Muhammed Abo Lila**, a *Front-End Developer*. With a deep passion for tu
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bassamnaeem&label=Profile%20views&color=0e75b6&style=flat" alt="bassamnaeem" /> </p>
-
----
-
-### 📜 Certifications
-- **React Native Specialization by Meta** – Coursera (Jan 2025)
-- **[Trello for Beginners](https://www.coursera.org/account/accomplishments/certificate/7JD2E6ZHUBML)** – Coursera (Oct 2023)
-- **[Server-side Development with NodeJS, Express, and MongoDB](https://www.coursera.org/account/accomplishments/certificate/HY43KYDAWRSQ)** – Coursera (Jun 2022)
-
----
-
-### 🤝 Connect with Me
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://linkedin.com/in/bassamnaeem" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Bassamnaeem" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" height="40" width="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.bassamnaeem.com" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sema/sema-original.svg" alt="Portfolio" height="40" width="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-
----
 
 🚀 Always open to exciting opportunities and collaborations. Let's connect and build something amazing! 🎯
