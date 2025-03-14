@@ -1,3 +1,10 @@
+<div align="center">
+  
+  <!-- Introduction -->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=5000&pause=1000&center=true&repeat=true&width=535&lines=Hi%2C+I'm+Nikhil+Dupally)](https://github.com/NikhilDupally)
+
+  
+</div>
 <h1 align="center">Hi 👋, I'm Bassam Naeem</h1>
 <h3 align="center">A Passionate Full Stack Developer from Pakistan</h3>
 
