@@ -42,7 +42,7 @@ I’m **Muhammed Abo Lila**, a *Front-End Developer*. With a deep passion for tu
 
 ### 🚀 Recent Projects
 
-- **[Envaglo ERP System]** – Contributed to the development of an ERP system by designing and implementing key user interfaces , including:
+- **<a href="https://linkedin.com/in/mabolila638" target="_blank">[Envaglo ERP System]</a>** – Contributed to the development of an ERP system by designing and implementing key user interfaces , including:
 - **Login Screen**: Implemented a secure and intuitive login screen for user authentication and access
 - **Sales Screen** (POS): Developed a user-friendly interface for managing sales transactions.
 - **Purchases Screen**: Created the interface for tracking and managing purchase orders and related data.
